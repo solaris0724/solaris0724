@@ -1,6 +1,6 @@
 <div align="center">
 <h3>🍀 About Me 🍀</h3>
-<p><a href="https://solaris0724.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Home-EA4AAA?style=flat&logo=Google Home&logoColor=4285F4"/></a></p>
+<p><a href="https://solaris0724.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Home-EA4AAA?style=flat&logo=Google%20Home&logoColor=4285F4"/></a></p>
 <p>Hi everybody! I'm a Blockchain developer.</p>
 <p>My main skills are Python, C, HTML, CSS, JavaScript, MERN and Solidity.</p>
 <p>I'm a responsible developer, who is identifying clients' needs and implementing perfectly.</p>
@@ -11,7 +11,7 @@
 
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/></p>
 
-<p><img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Binance-F0B90B?style=flat&logo=Binance&logoColor=F0B90B"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IPFS?style=flat&logo=IPFS&logoColor=#65C2CB"/></p>
+<p><img src="https://img.shields.io/badge/Solidity-white?style=flat&logo=Solidity&logoColor=363636"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ethereum-white?style=flat&logo=Ethereum&logoColor=3C3C3D"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Binance-black?style=flat&logo=Binance&logoColor=F0B90B"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IPFS?style=flat&logo=IPFS&logoColor=#65C2CB"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Confluence-gray?style=flat&logo=Confluence&logoColor=172B4D"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/></p>
   
